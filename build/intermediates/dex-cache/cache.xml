@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_f68337e76bee79da80f6b790c7da3c6077123280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c273dd9fa2eed345a0a3f11e2c0f0db7e8cf2c8">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\Vuforia_d57781fe67719bc7b509e753689e7ef076b8dded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_08cd1ab1cf42b42a0c1caaab26da29f399f9711f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_618a111a66fe5c6aac3d61725470b93939f46a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_7ff15a98d7b74b00b984f20ba573ef4ce4e507b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_176c165bdbad8831b1955ae63e76e0ca6c6b750f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dca6db41779fb6c313278e5805a6ae6dc499e1f">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\unity-classes_11f98cc463bc1320ccbfbb797a3a13ac6c209f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_6a04d29f251490d46ac7bede04466a200c156171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angelo\AndroidstudioProjects\Sticker\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5af6cbbcb24522c5f70695bee1c61a87bf11">
+        <dex dex="C:\Users\Angelo\AndroidstudioProjects\Sticker\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_b503d8d7a2314a2edf5eb11d37492a7643e90cac.jar" />
+    </item>
+
+</items>
